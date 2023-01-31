@@ -95,7 +95,7 @@ void PlayScene::HandleEvents()
 void PlayScene::Start()
 {
 	// Set GUI Title
-	m_guiTitle = "Play Scene";
+	m_guiTitle = "CLUSTERSCAPE";
 	m_bDebugView = false; // turn off debug colliders
 
 	// Add Target to the Scene
